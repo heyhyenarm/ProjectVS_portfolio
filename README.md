@@ -1,7 +1,7 @@
 # ProjectVS_portfolio
 [포트폴리오 버전] 3D 뱀서라이크 Unreal  프로젝트
 
-[유튜브 링크]
+유튜브 링크
 [![Video Label](http://img.youtube.com/vi/lvJ-HXNJlo8/0.jpg)](https://youtu.be/lvJ-HXNJlo8)
 
 # Project Title / 3D VampireSurvivors
